@@ -2,5 +2,3 @@
 A test repo used for GitHub training class
 
 I do like spicy foods!
-
-And this is a test!
